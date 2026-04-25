@@ -37,6 +37,5 @@ Repo: https://github.com/srdz-af/vim-ide
 Systems programming, infrastructure, reliability, performance engineering, Linux, distributed systems, graph systems, and developer tooling.
 
 ## Links
-
-GitHub: https://github.com/srdz-af  
+ICPC ID: https://icpc.global/ICPCID/AE81GBXCF54P
 LinkedIn: https://www.linkedin.com/in/srdzzz
