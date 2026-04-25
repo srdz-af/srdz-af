@@ -38,4 +38,5 @@ Systems programming, infrastructure, reliability, performance engineering, Linux
 
 ## Links
 ICPC ID: https://icpc.global/ICPCID/AE81GBXCF54P
+
 LinkedIn: https://www.linkedin.com/in/srdzzz
