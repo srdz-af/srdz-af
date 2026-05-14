@@ -17,14 +17,12 @@ I designed and implemented a from-scratch GraphSAGE pipeline with CSR graph stor
 
 Repo: https://github.com/srdz-af/tsnl
 
-### ND-Viewer
+### Polyple
 
 Interactive N-dimensional geometry viewer built with Three.js and TypeScript.
 
-It supports n-dimensional objects, 3D projection, PCA projection, W rotation, vertex editing, JSON import/export, and undo/redo.
-
-Repo: https://github.com/srdz-af/nd-viewer  
-Demo: https://srdz-af.github.io/nd-viewer/
+Repo: https://github.com/srdz-af/polyple 
+Demo: https://polyple.xyz
 
 ### vim-ide
 
