@@ -1,11 +1,7 @@
 
 # Sergio Rodríguez
 
-I'm a computer science student who likes building software.
-
-Most of my work centers on infrastructure, systems, developer tooling, and performance-minded software. I enjoy projects where reliability, scalability, and implementation details matter, from data layout and runtime behavior to debugging, testing, and building tools that are minimal, robust, and usable end to end.
-
-I'm currently a Software Engineering Intern at Microsoft on the Experimentation Configuration Service. I work on synchronization infrastructure that helps Microsoft 365 teams run experiments across their products. I also compete in ICPC and qualified for the 2025 ICPC World Finals.
+CS student and Software Engineering Intern at Microsoft.
 
 ## Selected projects
 
