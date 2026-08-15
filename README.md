@@ -6,7 +6,7 @@ CS student, incoming swe intern @ Google, prev @ Microsoft, ICPC World Finalist 
 
 ### [swe locker - swe.locker](https://swe.locker)
 
-1. Apply to SWE internship and new grad positions, 2. Track your applications, 3. Optimize your resume, 4. Repeat.
+Apply to SWE internship and new grad positions -> Track your applications -> Optimize your resume -> Repeat.
 Designed as a personal application for standardizing my own job-seeking loop (behind a UI i don't actually hate), but open for everyone for free.
 Had to aggressively optimize the resume grader for minimizing cache-miss and output tokens, bringing down average grading cost for a complete 1 page pdf resume to $0.0003, while still getting good grade distribution (with a bit of compression tho) and full text comments. 
 My job posting sources are the [Simplify Jobs repos](https://github.com/SimplifyJobs)
