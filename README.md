@@ -1,6 +1,6 @@
 # Sergio Rodríguez
 
-CS student, incoming swe intern @ Google, prev @ Microsoft, ICPC World Finalist 2025. 
+CS student, *incoming swe intern @ Google, prev @ Microsoft, ICPC World Finalist 2025* 
 
 ## Released projects
 
